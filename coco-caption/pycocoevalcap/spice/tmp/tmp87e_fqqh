@@ -1,0 +1,379 @@
+[
+  {
+    "image_id": "aachen_000096_000019_leftImg8bit",
+    "tests": [
+      "there are several cars parked on the left"
+    ],
+    "refs": [
+      "there is no car driving ahead",
+      "no pedestrians are walking ahead",
+      "a row of black cars parked on the left",
+      "there is a glass door on the left",
+      "there are many fallen leaves ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000098_000019_leftImg8bit",
+    "tests": [
+      "there are two pedestrians on the right sidewalk"
+    ],
+    "refs": [
+      "there are four pedestrians crossing the road ahead",
+      "there is a black car driving to the left ahead",
+      "there is a bike parked near the car",
+      "there are some people walking near the car",
+      "there is no one on the left and right sidewalks"
+    ]
+  },
+  {
+    "image_id": "aachen_000099_000019_leftImg8bit",
+    "tests": [
+      "there is a row of buildings ahead"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there is no car in front of the current lane",
+      "a black car is coming in the left lane",
+      "a row of cars parked on the right",
+      "there is a man and a woman pushing the stroller on the left sidewalk"
+    ]
+  },
+  {
+    "image_id": "aachen_000100_000019_leftImg8bit",
+    "tests": [
+      "there is a black car straight ahead"
+    ],
+    "refs": [
+      "there is no car driving ahead",
+      "there is a row of cars parked ahead",
+      "there is a man walking on the sidewalk ahead",
+      "there are many pedestrians on the sidewalk in the distance",
+      "there are glass windows in the shop ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000101_000019_leftImg8bit",
+    "tests": [
+      "there is a man and a woman standing in the left lane"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there are two white cars and a black car ahead",
+      "there is a couple coming to the right sidewalk",
+      "there are many bicycles and motorcycles parked on the right sidewalk",
+      "there are four pedestrians near the bicycle"
+    ]
+  },
+  {
+    "image_id": "aachen_000102_000019_leftImg8bit",
+    "tests": [
+      "there is a black car in front of the current lane"
+    ],
+    "refs": [
+      "there is a parking area ahead with a row of cars parked",
+      "there are no cars on the left sidewalk",
+      "several columns stand at intervals on the left sidewalk",
+      "four cars are driving from the parking area far ahead",
+      "there are no pedestrians in the scene"
+    ]
+  },
+  {
+    "image_id": "aachen_000103_000019_leftImg8bit",
+    "tests": [
+      "there is a pedestrian ahead"
+    ],
+    "refs": [
+      "there is no moving car ahead",
+      "there is a black car parked on the left",
+      "there is a bus far ahead",
+      "two cars parked near the parking sign on the right",
+      "there are three on the sidewalk on the left"
+    ]
+  },
+  {
+    "image_id": "aachen_000104_000019_leftImg8bit",
+    "tests": [
+      "there is a black car in front of the current lane"
+    ],
+    "refs": [
+      "the traffic light is red",
+      "there is a black car in front of the current lane",
+      "there are two vehicles in front of the left lane",
+      "there is a row of cars parked near the parking sign on the right",
+      "the current lane is bus lane"
+    ]
+  },
+  {
+    "image_id": "aachen_000105_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians on the right"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there is a white car and a black car turning right ahead",
+      "no cars in the left lane",
+      "someone is talking while walking on the sidewalk far ahead",
+      "bicycles parked on the left sidewalk"
+    ]
+  },
+  {
+    "image_id": "aachen_000106_000019_leftImg8bit",
+    "tests": [
+      "there is a row of cars parked on the left"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there is a black car in front of the current lane",
+      "there are two cars in front of the left lane",
+      "a bus is coming from the left",
+      "there are two cars and many bicycles parked on the sidewalk on the right"
+    ]
+  },
+  {
+    "image_id": "aachen_000107_000019_leftImg8bit",
+    "tests": [
+      "there is a pedestrian ahead"
+    ],
+    "refs": [
+      "there are two ladies crossing the street ahead",
+      "there are two cars driving ahead",
+      "there is a man walking on the left sidewalk",
+      "there is a row of cars parked on the left ahead",
+      "there are five people walking in front of the sidewalk on the right"
+    ]
+  },
+  {
+    "image_id": "aachen_000108_000019_leftImg8bit",
+    "tests": [
+      "there is a white car and a black car parked on the left"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "four cars parked on the left",
+      "someone is walking in the distance of the sidewalk on the right",
+      "there are several bicycles parked on the sidewalk on the right",
+      "there are two old people coming right in front"
+    ]
+  },
+  {
+    "image_id": "aachen_000109_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians crossing the road ahead"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "there are many pedestrians and bicycles ahead it is recommended to change lanes",
+      "there are many tables and chairs in front of the store",
+      "there are many pedestrians walking ahead",
+      "a pile of bicycles parked on the left"
+    ]
+  },
+  {
+    "image_id": "aachen_000110_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians on the right"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "there is a red car ahead",
+      "a row of cars and a motorcycle are parked on the right",
+      "no pedestrians on the left sidewalk",
+      "there is a car coming in the front"
+    ]
+  },
+  {
+    "image_id": "aachen_000111_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians on the right"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "there is a red car ahead",
+      "two cars are parked ahead",
+      "how many pedestrians are walking on the left sidewalk",
+      "several people are walking sporadically on the right sidewalk"
+    ]
+  },
+  {
+    "image_id": "aachen_000112_000019_leftImg8bit",
+    "tests": [
+      "there is a row of cars parked on the left"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "there is no car driving ahead",
+      "a row of cars parked on the left",
+      "no pedestrians on the right sidewalk",
+      "there are two people walking in the distance ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000113_000019_leftImg8bit",
+    "tests": [
+      "the traffic light is red"
+    ],
+    "refs": [
+      "unstructured road",
+      "no traffic lights ahead",
+      "there is a row of cars parked on the left ahead",
+      "there 's a black car going right ahead",
+      "how many pedestrians are walking on the right sidewalk"
+    ]
+  },
+  {
+    "image_id": "aachen_000114_000019_leftImg8bit",
+    "tests": [
+      "there is a white car and a van ahead"
+    ],
+    "refs": [
+      "unstructured road no traffic lights ahead",
+      "there are five old people right in front",
+      "an old man was pushing a small car",
+      "there are two old people walking in front of each other",
+      "there are three cars parked ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000115_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians in the distance ahead"
+    ],
+    "refs": [
+      "the traffic light is red",
+      "there is a black car ahead",
+      "there is a white car going across ahead",
+      "there are two pedestrians walking on the sidewalk opposite",
+      "no cars in the left lane"
+    ]
+  },
+  {
+    "image_id": "aachen_000116_000019_leftImg8bit",
+    "tests": [
+      "there is a traffic sign in front"
+    ],
+    "refs": [
+      "there are many pedestrians walking ahead",
+      "there are two pedestrians with a child",
+      "there is a row of cars parked on the left ahead",
+      "there is a row of glass windows in the shop ahead",
+      "there are pedestrians walking on the sidewalk ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000117_000019_leftImg8bit",
+    "tests": [
+      "there are many pedestrians on the right"
+    ],
+    "refs": [
+      "the traffic light is red",
+      "there is a bus ahead",
+      "there is a car driving to the right",
+      "no cars in the left lane",
+      "there are many pedestrians crossing the street on the sidewalk ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000119_000019_leftImg8bit",
+    "tests": [
+      "there are three pedestrians on the right sidewalk"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there is a red car ahead",
+      "there is a black car in the right lane",
+      "there is a cyclist on the left",
+      "there is a white car going right ahead"
+    ]
+  },
+  {
+    "image_id": "aachen_000120_000019_leftImg8bit",
+    "tests": [
+      "there is a row of cars parked on both sides of the road"
+    ],
+    "refs": [
+      "the traffic light is green",
+      "there is a black car ahead",
+      "there are no cars in front of the left and right lanes",
+      "a pedestrian is walking on the right sidewalk",
+      "a row of cars parked on the sidewalk on the right"
+    ]
+  },
+  {
+    "image_id": "aachen_000121_000019_leftImg8bit",
+    "tests": [
+      "there are two pedestrians on the right sidewalk"
+    ],
+    "refs": [
+      "no traffic lights in front of structured roads",
+      "two men standing on the left sidewalk",
+      "parking sign on the front",
+      "there is a row of cars parked under the trees on the left ahead",
+      "the road ahead is relatively open"
+    ]
+  },
+  {
+    "image_id": "aachen_000122_000019_leftImg8bit",
+    "tests": [
+      "there are several cars parked in the left lane"
+    ],
+    "refs": [
+      "the traffic light ahead is red",
+      "there is a row of cars parked on the right side of the road",
+      "there are three vehicles in front of the current lane",
+      "there is a black car and a white car coming in the left lane",
+      "the right side is the bicycle lane"
+    ]
+  },
+  {
+    "image_id": "aachen_000123_000019_leftImg8bit",
+    "tests": [
+      "a row of cars parked on the left"
+    ],
+    "refs": [
+      "no traffic lights on unstructured roads",
+      "a blue car and a white car are coming",
+      "there are two rows of cars parked on the left and right of the road",
+      "buildings are on both sides of the road",
+      "there are no pedestrians in the current scene"
+    ]
+  },
+  {
+    "image_id": "aachen_000124_000019_leftImg8bit",
+    "tests": [
+      "there is a black car straight ahead"
+    ],
+    "refs": [
+      "no traffic lights on unstructured roads",
+      "no cars are coming",
+      "there is a row of cars parked on the left side of the road",
+      "there is a row of cars parked in front of the right side of the road",
+      "two cars parked near the trees on the right"
+    ]
+  },
+  {
+    "image_id": "aachen_000126_000019_leftImg8bit",
+    "tests": [
+      "there is a white car in front of the current lane"
+    ],
+    "refs": [
+      "no traffic lights ahead",
+      "there is a black car and a white car coming side by side",
+      "there is a pedestrian on the left sidewalk",
+      "a bicycle was parked in front of the pedestrian",
+      "there is no car on the right you can turn right"
+    ]
+  },
+  {
+    "image_id": "aachen_000127_000019_leftImg8bit",
+    "tests": [
+      "there are two people walking on the right sidewalk"
+    ],
+    "refs": [
+      "the traffic light ahead is red",
+      "there are two white cars ahead",
+      "a pedestrian is crossing the street",
+      "there are three pedestrians on the right sidewalk looking at the goods in the window",
+      "the shop on the right has a row of glass windows"
+    ]
+  }
+]
