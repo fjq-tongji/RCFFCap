@@ -1,3 +1,3 @@
 <p align="center">  
-RCFFCap: Retrieval-Conditioned Semantic Feature Filtering Network for Image Captioning
+RCFFCap: Enhancing Image Captioning with Retrieval-Guided Semantic Feature Refinement
 <p align="center">  
