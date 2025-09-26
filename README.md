@@ -13,5 +13,13 @@
 3. Extensive experiments on the MSCOCO, Flickr30K, and two self-constructed traffic captioning datasets demonstrate the effectiveness of RGFRCap in semantic scene understanding and caption generation, achieving state-of-the-art performance on certain evaluation metrics.
 
 ## Usage
-1. This project uses Python 3.10 and PyTorch 1.12.0.
-2. Download the model 
+
+### Start training
+This project uses Python 3.10, PyTorch 1.11.0, and CUDA 11.3.
+ 
+> CUDA_VISIBLE_DEVICES=0 sh train.sh
+> See 
+
+
+### Start evaluation
+
