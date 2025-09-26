@@ -18,14 +18,17 @@
 This project uses Python 3.10, PyTorch 1.11.0, and CUDA 11.3.
  
 > CUDA_VISIBLE_DEVICES=0 sh train_coco_Large.sh
+
 See `opts.py` for the options, and you can enlarge `--max_epochs` in `train_coco_Large.sh` to train the model for more epochs.
 
 > CUDA_VISIBLE_DEVICES=0 sh train_SCST_coco-Large.sh
+
 After training under the cross-entropy loss, another 15 epochs needs to be trained under SCST loss.
 
 
 
 ### Start evaluation
 > CUDA_VISIBLE_DEVICES=0 sh eval_karpathy_test_coco.sh
+
 Here, you can set `--infos_path`, `--model`, `--save_path_seq`, and `--save_path_loss_index`.
 
