@@ -32,3 +32,12 @@ After training under the cross-entropy loss, another 15 epochs needs to be train
 
 Here, you can set `--infos_path`, `--model`, `--save_path_seq`, and `--save_path_loss_index`.
 
+
+
+## Acknowledgements
+This work is built based on [AoANet](https://github.com/husthuaan/AoANet) and [Self-critical](https://github.com/ruotianluo/self-critical.pytorch).
+We sincerely thank the authors for releasing their codes.
+
+
+
+
