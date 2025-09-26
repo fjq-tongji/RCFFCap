@@ -16,7 +16,17 @@
 
 ### Start training
 This project uses Python 3.10, PyTorch 1.11.0, and CUDA 11.3.
- 
+
+
+ | Argument | Values |
+|------|------|
+| `--num_heads`| Number of heads (default: 8) |
+| 方法 B | 用于目标检测 |
+| 方法 C | 用于图像分割 |
+
+
+
+
 ```bash
 CUDA_VISIBLE_DEVICES=0 sh train_coco_Large.sh
 ```
