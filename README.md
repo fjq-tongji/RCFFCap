@@ -21,8 +21,15 @@ This project uses Python 3.10, PyTorch 1.11.0, and CUDA 11.3.
  | Argument | Values |
 |------|------|
 | `--num_heads`| Number of heads (default: 8) |
-| 方法 B | 用于目标检测 |
-| 方法 C | 用于图像分割 |
+| `--seq_per_img` | Number of captions for each image (default: 5) |
+| `--batch_size` | Batch size (default: 32) |
+| `--learning_rate` | Learning rate (default: 5e-4) |
+| `--num_layers` | Number of encoder and decoder layers (default: 4) |
+| `--input_encoding_size` | Dimension of encoded features (default: 512) |
+| `--rnn_size` | Dimension of input visual features (default: 2048) |
+| `--max_epochs` | Max epochs (default: 15) |
+| `--learning_rate_decay_every` | Epochs of learning rate decaying (default: 3) |
+| `--learning_rate_decay_rate` | Decay rate of learning rate (default: 0.8) |
 
 
 
